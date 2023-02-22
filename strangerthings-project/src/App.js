@@ -1,11 +1,12 @@
-import './Components/Tabs'
+import Tabs from './Components/Tabs'
 import React, { useState, useEffect } from 'react';
 import './index'
 import './App.css';
-import Tabs from'./Components/Tabs'
 
 
-  function App() {
+
+
+function App() {
     //API URL From Stranger things Quotes
       const URL = 'https://strangerthings-quotes.vercel.app/api/quotes/5';
       const [quotes, setQuotes] = useState([])
@@ -25,15 +26,15 @@ import Tabs from'./Components/Tabs'
  //rendering Tabs from Tab Component to main page(App.js)
  return(
   <main className="App">
+  
+
     <h1 className='heading'>Stranger Things Quotes</h1>
   <div className='quotes'></div>
   {quotes.map((quotes, index) => (
     <li key={index}> {quotes.quote} Author: {quotes.author}</li>
   )
  )}
-    <div>
-  <Tabs/>
-  </div>
+ <Tabs/>
 
   </main>
 

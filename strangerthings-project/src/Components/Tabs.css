@@ -1,0 +1,16 @@
+
+
+.content {
+    background:blue;
+    display:none;
+}
+
+
+.active-content {
+    display: block;
+}
+
+.active-tabs {
+    background: pink;
+    border-bottom: 1px solid transparent;
+}
