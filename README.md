@@ -21,14 +21,16 @@
     .then(data => setQuotes(data))
   }
     useEffect(getQuotes, []);
-    console.log(quotes) ```
-   
-   You can check out the API link here: https://strangerthings-quotes.vercel.app/
+    console.log(quotes) 
+   ```
+  
+  You can check out the API link here: https://strangerthings-quotes.vercel.app/
   
 
 The inspo for the UI Pattern
  
- ![Eleven](https://user-images.githubusercontent.com/117240024/221045212-90ef492f-f785-4c71-b026-7d552dbe42b2.png)
+ ![Eleven](https://user-images.githubusercontent.com/117240024/221045212-90ef492f-f785-4c71-b026-7d552dbe42b2.png)![Eleven](https://user-images.githubusercontent.com/117240024/221051518-8d0b89da-fcc1-44fd-b59e-5c963a12ff9b.png)
+
  
  Final Product :
- <img width="1512" alt="Screenshot 2023-02-23 at 3 50 44 PM" src="https://user-images.githubusercontent.com/117240024/221048893-a6705787-cd02-4f48-9260-a01ea5662a82.png">
+ 
