@@ -35,4 +35,5 @@ The inspo for the UI Pattern
  
  Final Product :
  
-<img width="1512" alt="Screenshot 2023-02-12 at 2 30 38 PM" src="https://user-images.githubusercontent.com/117240024/221051726-264d366c-b9b9-49a1-9953-62f032b2ce66.png">
+<img width="1512" alt="Screenshot 2023-02-23 at 3 31 24 PM" src="https://user-images.githubusercontent.com/117240024/221051924-ee5ee7a4-2f76-4a20-9b79-727613e692c6.png">
+
