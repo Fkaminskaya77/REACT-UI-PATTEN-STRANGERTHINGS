@@ -28,9 +28,11 @@
   
 
 The inspo for the UI Pattern
- 
- ![Eleven](https://user-images.githubusercontent.com/117240024/221045212-90ef492f-f785-4c71-b026-7d552dbe42b2.png)![Eleven](https://user-images.githubusercontent.com/117240024/221051518-8d0b89da-fcc1-44fd-b59e-5c963a12ff9b.png)
+ ![Eleven](https://user-images.githubusercontent.com/117240024/221051649-85037d9a-8f3b-4c8a-9fa7-d74a2dd1b4da.png)
+
+
 
  
  Final Product :
  
+<img width="1512" alt="Screenshot 2023-02-12 at 2 30 38 PM" src="https://user-images.githubusercontent.com/117240024/221051726-264d366c-b9b9-49a1-9953-62f032b2ce66.png">
