@@ -26,15 +26,12 @@ function App() {
  //rendering Tabs from Tab Component to main page(App.js)
  return(
   <main className="App">
-  
-
-    <h1 className='heading'>Stranger Things Quotes</h1>
+  <div className='backgroundImg'>
+     <h1 className='heading'>Stranger Things Quotes</h1>
   
   <div className='quotes'></div>
-
- 
- <Tabs quotes={quotes}/>
-
+  <Tabs quotes={quotes}/>
+</div>
   </main>
 
    );
