@@ -29,12 +29,11 @@ function App() {
   
 
     <h1 className='heading'>Stranger Things Quotes</h1>
+  
   <div className='quotes'></div>
-  {quotes.map((quotes, index) => (
-    <li key={index}> {quotes.quote} Author: {quotes.author}</li>
-  )
- )}
- <Tabs/>
+
+ 
+ <Tabs quotes={quotes}/>
 
   </main>
 
